@@ -73,4 +73,6 @@ crashlytics-build.properties
 
 # Custom Ignore
 /[Aa]ssets/[Ee][Rr][Pp]/
+.erp
+ERP.meta
 
